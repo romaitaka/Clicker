@@ -1,0 +1,27 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    height: auto;
+    cursor: pointer;
+    width: 300px;
+    height: auto;
+    border-radius: 100px;
+}
+
+.container {
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
